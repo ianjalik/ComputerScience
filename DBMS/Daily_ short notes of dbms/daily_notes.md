@@ -1,6 +1,6 @@
 ## Sep 05, 23
 
-1. SQL and SEQUEL
+1. SQL and SEQUEL : Structured English QUEry Language
 2. Alter Command and its variants
    * alter database name or table name or column name
    * modifiy the data type of column
